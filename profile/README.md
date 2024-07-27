@@ -1,9 +1,9 @@
-<div align="center">
+
 
 # 🦌 Deer Club
-
+<div align="center">
 ![Deer Club Banner](../assets/dance.gif)
-
+<div align="start">
 ## Welcome to the Deer Club!
 
 Inspired by the enchanting world of "Shikanoko no Kōtan" (鹿の子の物語), the Deer Club is a haven for developers and anime enthusiasts alike. Our mission is to blend the magic of coding with the beauty of anime, creating a community where creativity and technology thrive.
@@ -31,5 +31,5 @@ We are always looking for passionate developers and anime fans to join our commu
 
 If you have any questions or just want to say hi, feel free to reach out to us at [contact@deerclub.org](mailto:tranquangsang12.7@gmail.com).
 
-
+<div align="center">
  ![](../assets/nokotan.gif)
