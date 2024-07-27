@@ -4,7 +4,7 @@ Sure, I can help you create a wonderful README for your GitHub organization. Her
 
 # 🦌 Deer Club
 
-![Deer Club Banner](https://link-to-your-banner-gif.gif)
+![Deer Club Banner](https://tenor.com/view/shikanoko-nokonoko-koshitantan-gif-10520055093688153577)
 
 ## Welcome to the Deer Club!
 
@@ -33,7 +33,5 @@ We are always looking for passionate developers and anime fans to join our commu
 
 If you have any questions or just want to say hi, feel free to reach out to us at [contact@deerclub.org](mailto:tranquangsang12.7@gmail.com).
 
----
- `![Deer Club Banner](https://tenor.com/view/shikanoko-nokonoko-koshitantan-gif-10520055093688153577)`
 
  ![](https://tenor.com/view/nokotan-shikanoko-nokonoko-koshitantan-kenshiro-gif-6611478418379268599)
