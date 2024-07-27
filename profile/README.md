@@ -2,7 +2,7 @@
 
 # 🦌 Deer Club
 
-![Deer Club Banner](./assets/dance.gif)
+![Deer Club Banner](../assets/dance.gif)
 
 ## Welcome to the Deer Club!
 
@@ -32,4 +32,4 @@ We are always looking for passionate developers and anime fans to join our commu
 If you have any questions or just want to say hi, feel free to reach out to us at [contact@deerclub.org](mailto:tranquangsang12.7@gmail.com).
 
 
- ![](./assets/nokotan.gif)
+ ![](../assets/nokotan.gif)
