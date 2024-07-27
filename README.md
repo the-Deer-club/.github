@@ -1,6 +1,4 @@
-Sure, I can help you create a wonderful README for your GitHub organization. Here's a template you can use:
 
----
 
 # 🦌 Deer Club
 
