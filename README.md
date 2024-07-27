@@ -4,7 +4,7 @@ Sure, I can help you create a wonderful README for your GitHub organization. Her
 
 # 🦌 Deer Club
 
-![Deer Club Banner](https://tenor.com/view/shikanoko-nokonoko-koshitantan-gif-10520055093688153577)
+<div class="tenor-gif-embed" data-postid="6611478418379268599" data-share-method="host" data-aspect-ratio="1.76991" data-width="100%"><a href="https://tenor.com/view/nokotan-shikanoko-nokonoko-koshitantan-kenshiro-gif-6611478418379268599">Nokotan Shikanoko Nokonoko Koshitantan GIF</a>from <a href="https://tenor.com/search/nokotan-gifs">Nokotan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Welcome to the Deer Club!
 
